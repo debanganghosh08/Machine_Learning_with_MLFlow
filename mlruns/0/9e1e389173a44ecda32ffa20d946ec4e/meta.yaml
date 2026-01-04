@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Projects/Machine_Learning_with_MLFlow/mlruns/0/9e1e389173a44ecda32ffa20d946ec4e/artifacts
+end_time: 1767438929053
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e1e389173a44ecda32ffa20d946ec4e
+run_name: bittersweet-hog-150
+run_uuid: 9e1e389173a44ecda32ffa20d946ec4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767438925326
+status: 3
+tags: []
+user_id: primu

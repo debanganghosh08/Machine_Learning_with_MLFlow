@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Projects/Machine_Learning_with_MLFlow/mlruns/0/f9b0e8e41ce74760b63350719601ef42/artifacts
+end_time: 1767438701544
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f9b0e8e41ce74760b63350719601ef42
+run_name: painted-owl-20
+run_uuid: f9b0e8e41ce74760b63350719601ef42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767438697880
+status: 4
+tags: []
+user_id: primu
